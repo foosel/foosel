@@ -8,6 +8,6 @@
 - 😄 My pronouns are she/her
 - 🙊 I speak German and English, and also a bit of Spanish
 - ⚡ Some fun facts: 
-  * 🤓 That's a sharp s in my last name, not a b ;) - see [ß](https://en.m.wikipedia.org/wiki/%C3%9F)
+  * 🤓 That's a sharp s in my last name, not a b - see [ß](https://en.m.wikipedia.org/wiki/%C3%9F)
   * 👩‍🍳 I'm a hobby baker with a focus on bread and pizza
   * 🎮 I own way more video games than I find the time playing, but that doesn't keep me from buying more
