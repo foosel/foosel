@@ -10,4 +10,4 @@
 - ⚡ Some fun facts: 
   * 🤓 That's a sharp s in my last name, not a b ;) - see [ß](https://en.m.wikipedia.org/wiki/%C3%9F)
   * 👩‍🍳 I'm a hobby baker with a focus on bread and pizza
-  * I own way more video games than I find the time playing, but that doesn't keep me from buying more
+  * 🎮 I own way more video games than I find the time playing, but that doesn't keep me from buying more
