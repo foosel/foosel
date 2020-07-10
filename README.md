@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 My name is Gina Häußge (that's pronounced `[dʒiːna hɔʏsɡə]`), but I also listen to my nickname foosel 😉
+- 👩‍💻 My name is Gina Häußge (that's pronounced <code>[d&#x292;i&#x2D0;na h&#x254;&#x28F;s&#x261;&#x259;]</code>), but I also listen to my nickname foosel 😉
 - 🐙 I'm the maintainer of [OctoPrint](https://github.com/OctoPrint/OctoPrint) and you can [support my work on that here](https://support.octoprint.org) 
 - 🔗 My home on the net is [foosel.net](https://foosel.net)
 - 📫 You can reach me by mail at [gina@octoprint.org](mailto:gina@octoprint.org)
