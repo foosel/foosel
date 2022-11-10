@@ -5,7 +5,8 @@
 - 🐙 I'm the maintainer of [OctoPrint](https://github.com/OctoPrint/OctoPrint) and you can [support my work on that here](https://support.octoprint.org) 
 - 🔗 My home on the net is [foosel.net](https://foosel.net)
 - 📫 You can reach me by mail at [gina@octoprint.org](mailto:gina@octoprint.org)
-- 🐤 You can find me on Twitter as [@foosel](https://twitter.com/foosel)
+- 🦣 On Mastodon I'm [@foosel@chaos.social](https://chaos.social/@foosel). I don't really use Twitter anymore, but there I'm also [@foosel](https://twitter.com/foosel)
+
 - 😄 My pronouns are she/her
 - 🙊 I speak German and English, and also a bit of Spanish
 - ⚡ Some fun facts: 
